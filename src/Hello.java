@@ -12,8 +12,6 @@ import java.io.File;
 public class Hello {
 
     public static void main(String[] args) {
-//        CSVObject csvObject = CSVUtil.parseFromFile(new File("data1.csv"));
-//        XMLUtil.writeToFile(csvObject, "result1.xml");
         XMLBean xmlObject = CSVUtil.parseToXMLBeanFromCSVFile(new File("data1.csv"));
         XMLUtil.writeToFile(xmlObject,"out/res.xml");
 

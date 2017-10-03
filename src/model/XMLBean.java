@@ -1,5 +1,7 @@
 package model;
 
+import util.StringUtil;
+
 import java.util.LinkedList;
 import java.util.List;
 
@@ -16,7 +18,7 @@ public class XMLBean {
     private String content;
 
     public XMLBean(String name) {
-        this.name = name;
+        this.name = StringUtil.removeBlank(StringUtil.removeBracket(name));
         this.elementList = new LinkedList<>();
         this.attributeList = new LinkedList<>();
         this.content = "";

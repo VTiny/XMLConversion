@@ -14,4 +14,24 @@ public class StringUtil {
         return false;
     }
 
+    public static String removeBlank(String s) {
+        return s.replace(" ", "");
+    }
+
+    public static String removeBracket(String s) {
+        int startIndex = 0;
+        boolean hasBracket = false;
+        for (int i = 0, len = s.length(); i < len; i++) {
+            if (s.charAt(i) == '(') {
+                startIndex = i;
+                hasBracket = true;
+                break;
+            }
+        }
+        if (hasBracket) {
+            s = s.substring(0, startIndex - 1);
+        }
+        return s;
+    }
+
 }
