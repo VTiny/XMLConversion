@@ -1,0 +1,4132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data1.csv>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/03/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>8.7</Lat>
+  <Lon>145.2</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/03/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>9.2</Lat>
+  <Lon>145</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/03/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>10</Lat>
+  <Lon>144.3</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/03/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>10.9</Lat>
+  <Lon>143</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/04/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>11.8</Lat>
+  <Lon>141.9</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/04/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>12.7</Lat>
+  <Lon>140.8</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/04/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>13.5</Lat>
+  <Lon>139.7</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/04/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14.8</Lat>
+  <Lon>138.3</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/05/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>15.4</Lat>
+  <Lon>136.7</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/05/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>16.3</Lat>
+  <Lon>135.1</Lon>
+  <Wind (mph)>100</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/05/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>17.2</Lat>
+  <Lon>133.5</Lon>
+  <Wind (mph)>140</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/05/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>18</Lat>
+  <Lon>131.8</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/06/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>18.7</Lat>
+  <Lon>130.1</Lon>
+  <Wind (mph)>160</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/06/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>19.5</Lat>
+  <Lon>128.4</Lon>
+  <Wind (mph)>175</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/06/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>20.2</Lat>
+  <Lon>126.9</Lon>
+  <Wind (mph)>175</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/06/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>20.7</Lat>
+  <Lon>125.6</Lon>
+  <Wind (mph)>175</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/07/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>21.3</Lat>
+  <Lon>124.3</Lon>
+  <Wind (mph)>175</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/07/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>21.6</Lat>
+  <Lon>123.4</Lon>
+  <Wind (mph)>165</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/07/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>22</Lat>
+  <Lon>122.6</Lon>
+  <Wind (mph)>160</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/07/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>22.4</Lat>
+  <Lon>121.8</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/08/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>22.6</Lat>
+  <Lon>120.8</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/08/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>23.1</Lat>
+  <Lon>119.9</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/08/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>23.3</Lat>
+  <Lon>119.7</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/08/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>23.4</Lat>
+  <Lon>119.7</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/09/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>24.4</Lat>
+  <Lon>119</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Nepartak</Name>
+  <Date>Jul/09/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>25.1</Lat>
+  <Lon>118.4</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Lupit</Name>
+  <Date>Jul/17/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>20.2</Lat>
+  <Lon>129.7</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Lupit</Name>
+  <Date>Jul/17/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>21.5</Lat>
+  <Lon>129.4</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Mirinae</Name>
+  <Date>Jul/25/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>17.1</Lat>
+  <Lon>114.8</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Mirinae</Name>
+  <Date>Jul/25/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>17.2</Lat>
+  <Lon>114</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Mirinae</Name>
+  <Date>Jul/26/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>17.9</Lat>
+  <Lon>113.1</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Mirinae</Name>
+  <Date>Jul/26/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>18.5</Lat>
+  <Lon>112</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mirinae</Name>
+  <Date>Jul/26/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>18.9</Lat>
+  <Lon>111</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mirinae</Name>
+  <Date>Jul/26/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>19.2</Lat>
+  <Lon>109.9</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mirinae</Name>
+  <Date>Jul/27/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>19.7</Lat>
+  <Lon>108.7</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mirinae</Name>
+  <Date>Jul/27/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>20</Lat>
+  <Lon>107.3</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mirinae</Name>
+  <Date>Jul/27/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>20.1</Lat>
+  <Lon>106.3</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Jul/29/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>12</Lat>
+  <Lon>127.2</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Jul/29/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>12.4</Lat>
+  <Lon>126.8</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Jul/30/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.3</Lat>
+  <Lon>127.1</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Jul/30/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>15.5</Lat>
+  <Lon>126.4</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Jul/30/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>16.7</Lat>
+  <Lon>124.9</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Jul/30/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>16.2</Lat>
+  <Lon>124.3</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Jul/31/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>16.9</Lat>
+  <Lon>123.5</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Jul/31/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>18.2</Lat>
+  <Lon>122.4</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Jul/31/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>18.8</Lat>
+  <Lon>121.2</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Jul/31/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>19.4</Lat>
+  <Lon>120.2</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Aug/01/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>20.1</Lat>
+  <Lon>118.9</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Aug/01/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>21.1</Lat>
+  <Lon>117.3</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Aug/01/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>21.9</Lat>
+  <Lon>116</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Aug/01/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>22.5</Lat>
+  <Lon>115</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Nida</Name>
+  <Date>Aug/02/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>22.8</Lat>
+  <Lon>113.5</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/04/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>18.9</Lat>
+  <Lon>146.2</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/04/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>19.1</Lat>
+  <Lon>146.2</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/05/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>20</Lat>
+  <Lon>146.3</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/05/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>21.1</Lat>
+  <Lon>146.7</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/05/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>22.3</Lat>
+  <Lon>147.4</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/05/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>23.7</Lat>
+  <Lon>147.6</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/06/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>24.6</Lat>
+  <Lon>147.7</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/06/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>25.3</Lat>
+  <Lon>147.8</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/06/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>26.3</Lat>
+  <Lon>147.6</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/06/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>27.4</Lat>
+  <Lon>147.1</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/07/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>28.6</Lat>
+  <Lon>146.8</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/07/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>29.7</Lat>
+  <Lon>146.3</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/07/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>31</Lat>
+  <Lon>145.8</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/07/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>32.2</Lat>
+  <Lon>145</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/08/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>33.7</Lat>
+  <Lon>144.4</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/08/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>34.6</Lat>
+  <Lon>144.2</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/08/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>35.6</Lat>
+  <Lon>144.4</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Omais</Name>
+  <Date>Aug/08/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>36.8</Lat>
+  <Lon>144.7</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/13/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>18.7</Lat>
+  <Lon>140.7</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/13/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>19.4</Lat>
+  <Lon>141.3</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/13/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>19.8</Lat>
+  <Lon>141.9</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/14/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>20.8</Lat>
+  <Lon>142.9</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/14/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>22.7</Lat>
+  <Lon>143.8</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/14/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>24.1</Lat>
+  <Lon>144.6</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/14/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>25.2</Lat>
+  <Lon>144.8</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/15/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>26.6</Lat>
+  <Lon>144.9</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/15/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>27.7</Lat>
+  <Lon>144.4</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/15/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>29.1</Lat>
+  <Lon>143.7</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/15/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>30.3</Lat>
+  <Lon>143</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/16/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>31.6</Lat>
+  <Lon>142.3</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/16/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>33.4</Lat>
+  <Lon>141.5</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/16/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>35.2</Lat>
+  <Lon>141</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/16/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>36.2</Lat>
+  <Lon>141.2</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chanthu</Name>
+  <Date>Aug/17/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>37.7</Lat>
+  <Lon>141.6</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>999/-999/-999</Date>
+  <Time>-999 GMT</Time>
+  <Lat>-999</Lat>
+  <Lon>-999</Lon>
+  <Wind (mph)>-999</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>NA</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/21/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>6.6</Lat>
+  <Lon>141.7</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/21/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>6.9</Lat>
+  <Lon>141</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/21/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>7.9</Lat>
+  <Lon>140.3</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/22/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>8.7</Lat>
+  <Lon>139.1</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/22/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>9.4</Lat>
+  <Lon>137.9</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/22/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>10.1</Lat>
+  <Lon>136.6</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/22/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>10.9</Lat>
+  <Lon>135</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/23/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>11.8</Lat>
+  <Lon>133.3</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/23/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>12.2</Lat>
+  <Lon>132.2</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/23/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>12.7</Lat>
+  <Lon>131</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/23/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>13</Lat>
+  <Lon>129.9</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/24/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.1</Lat>
+  <Lon>129</Lon>
+  <Wind (mph)>125</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/24/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>13.3</Lat>
+  <Lon>128.2</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/24/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>13.4</Lat>
+  <Lon>127.5</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/24/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>13.6</Lat>
+  <Lon>126.7</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Oct/12/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>31.2</Lat>
+  <Lon>151</Lon>
+  <Wind (mph)>140</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Oct/12/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>32.5</Lat>
+  <Lon>153.8</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/17/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>15.3</Lat>
+  <Lon>141.3</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>15.3</Lat>
+  <Lon>142.1</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>15.7</Lat>
+  <Lon>142.9</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>16.5</Lat>
+  <Lon>143.4</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>17.1</Lat>
+  <Lon>143.4</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>17.6</Lat>
+  <Lon>142.5</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>18.1</Lat>
+  <Lon>141.4</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>18.9</Lat>
+  <Lon>141</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>19.7</Lat>
+  <Lon>140.5</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>20.4</Lat>
+  <Lon>140.7</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>22.3</Lat>
+  <Lon>140.9</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>23.9</Lat>
+  <Lon>141</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>26.5</Lat>
+  <Lon>140.5</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/21/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>28.3</Lat>
+  <Lon>140.6</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/21/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>31.7</Lat>
+  <Lon>139.6</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/21/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>31.7</Lat>
+  <Lon>139.6</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/21/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>33.2</Lat>
+  <Lon>139</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/22/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>34.3</Lat>
+  <Lon>139.3</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/22/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>36</Lat>
+  <Lon>140.1</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/22/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>37.9</Lat>
+  <Lon>140.7</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Mindulle</Name>
+  <Date>Aug/23/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>40.6</Lat>
+  <Lon>141.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Dianmu</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>20.8</Lat>
+  <Lon>111.9</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Dianmu</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>20.9</Lat>
+  <Lon>111.3</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Dianmu</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>20.8</Lat>
+  <Lon>109.6</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Dianmu</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>20.5</Lat>
+  <Lon>108.9</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Dianmu</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>20.4</Lat>
+  <Lon>107.7</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Dianmu</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>20.8</Lat>
+  <Lon>106.5</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>29</Lat>
+  <Lon>151.9</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>30</Lat>
+  <Lon>149.9</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>30.8</Lat>
+  <Lon>148.6</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/18/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>32.3</Lat>
+  <Lon>146.8</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>32.8</Lat>
+  <Lon>144.9</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>33.1</Lat>
+  <Lon>142.7</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>32.7</Lat>
+  <Lon>141.2</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>32.4</Lat>
+  <Lon>139.8</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>32</Lat>
+  <Lon>138.4</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>31.4</Lat>
+  <Lon>137</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>30.9</Lat>
+  <Lon>136.3</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>30.2</Lat>
+  <Lon>135.3</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/21/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>30</Lat>
+  <Lon>134.3</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/21/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>29.5</Lat>
+  <Lon>133.4</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/21/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>29</Lat>
+  <Lon>132.6</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/21/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>28.6</Lat>
+  <Lon>132.9</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/22/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>28.5</Lat>
+  <Lon>133.1</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/22/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>28.8</Lat>
+  <Lon>133.6</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/22/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>28.4</Lat>
+  <Lon>133.9</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/22/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>28.3</Lat>
+  <Lon>134.5</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/23/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>27.9</Lat>
+  <Lon>134.4</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/23/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>27.4</Lat>
+  <Lon>134.2</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/23/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>26.8</Lat>
+  <Lon>134</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/23/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>26</Lat>
+  <Lon>133.3</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/24/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>25.3</Lat>
+  <Lon>132.7</Lon>
+  <Wind (mph)>85</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/24/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>24.8</Lat>
+  <Lon>132.4</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/24/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>24.4</Lat>
+  <Lon>131.8</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/24/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>23.9</Lat>
+  <Lon>131.4</Lon>
+  <Wind (mph)>125</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/25/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>23.4</Lat>
+  <Lon>131.1</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/25/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>23.5</Lat>
+  <Lon>130.9</Lon>
+  <Wind (mph)>125</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/25/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>23.7</Lat>
+  <Lon>131.1</Lon>
+  <Wind (mph)>125</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/25/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>23.2</Lat>
+  <Lon>130.5</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/26/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>23.1</Lat>
+  <Lon>130.9</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/26/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>23.1</Lat>
+  <Lon>131.3</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/26/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>23.3</Lat>
+  <Lon>132.2</Lon>
+  <Wind (mph)>110</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/26/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>23.5</Lat>
+  <Lon>132.7</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/27/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>23.8</Lat>
+  <Lon>133.1</Lon>
+  <Wind (mph)>110</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/27/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>24</Lat>
+  <Lon>133.9</Lon>
+  <Wind (mph)>135</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/27/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>24.5</Lat>
+  <Lon>134.7</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/27/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>25.2</Lat>
+  <Lon>135.7</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/28/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>26</Lat>
+  <Lon>136.6</Lon>
+  <Wind (mph)>125</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/28/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>27.7</Lat>
+  <Lon>137.9</Lon>
+  <Wind (mph)>135</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/28/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>28.5</Lat>
+  <Lon>138.9</Lon>
+  <Wind (mph)>135</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/28/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>29.4</Lat>
+  <Lon>140.5</Lon>
+  <Wind (mph)>125</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/29/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>30.5</Lat>
+  <Lon>141.8</Lon>
+  <Wind (mph)>110</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/29/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>31.4</Lat>
+  <Lon>142.8</Lon>
+  <Wind (mph)>100</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/29/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>32.7</Lat>
+  <Lon>143.4</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/29/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>34.3</Lat>
+  <Lon>143.5</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/30/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>36</Lat>
+  <Lon>142.8</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/30/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>37.7</Lat>
+  <Lon>141.8</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/30/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>40.6</Lat>
+  <Lon>140.2</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Lionrock</Name>
+  <Date>Aug/30/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>43.3</Lat>
+  <Lon>137.3</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Kompasu</Name>
+  <Date>Aug/19/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>31.1</Lat>
+  <Lon>149.5</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Kompasu</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>32.7</Lat>
+  <Lon>147.6</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Kompasu</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>34.6</Lat>
+  <Lon>145.5</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Kompasu</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>36.6</Lat>
+  <Lon>143.7</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Kompasu</Name>
+  <Date>Aug/20/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>37.9</Lat>
+  <Lon>142.4</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Kompasu</Name>
+  <Date>Aug/21/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>39.3</Lat>
+  <Lon>142.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression</Name>
+  <Date>Aug/23/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>13.7</Lat>
+  <Lon>145.6</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression</Name>
+  <Date>Aug/23/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>15.4</Lat>
+  <Lon>145.1</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression</Name>
+  <Date>Aug/23/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>17.4</Lat>
+  <Lon>145.3</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression</Name>
+  <Date>Aug/24/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>19.6</Lat>
+  <Lon>145.7</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression</Name>
+  <Date>Aug/24/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>21.9</Lat>
+  <Lon>146.6</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression</Name>
+  <Date>Aug/24/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>24.7</Lat>
+  <Lon>147.7</Lon>
+  <Wind (mph)>25</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Aug/31/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>22</Lat>
+  <Lon>125.9</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Aug/31/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>23.1</Lat>
+  <Lon>126.5</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/01/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>23.8</Lat>
+  <Lon>127.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/01/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>24.4</Lat>
+  <Lon>129.1</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/01/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>25</Lat>
+  <Lon>130.2</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/01/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>25.8</Lat>
+  <Lon>130.6</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/02/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>26.4</Lat>
+  <Lon>130.8</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/02/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>27.2</Lat>
+  <Lon>130.8</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/02/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>27.8</Lat>
+  <Lon>130.8</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/02/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>28.5</Lat>
+  <Lon>130.7</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/03/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>29.3</Lat>
+  <Lon>130.3</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/03/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>30</Lat>
+  <Lon>130.1</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/03/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>30.7</Lat>
+  <Lon>129.9</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/03/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>31.1</Lat>
+  <Lon>129.8</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/04/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>31.5</Lat>
+  <Lon>129.6</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/04/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>32</Lat>
+  <Lon>129.5</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/04/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>32.7</Lat>
+  <Lon>129.7</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/05/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>33.1</Lat>
+  <Lon>129.8</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/05/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>34</Lat>
+  <Lon>130.4</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/08/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>13.9</Lat>
+  <Lon>142.2</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/09/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.1</Lat>
+  <Lon>142.6</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/09/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14</Lat>
+  <Lon>142.5</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/09/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.5</Lat>
+  <Lon>142</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/09/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14.6</Lat>
+  <Lon>141.3</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/10/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>15.2</Lat>
+  <Lon>139.9</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/10/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>15.5</Lat>
+  <Lon>138.5</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/10/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>15.9</Lat>
+  <Lon>137.5</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/10/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>15.8</Lat>
+  <Lon>136.4</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>16.3</Lat>
+  <Lon>135.7</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>16.8</Lat>
+  <Lon>134.5</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>17.3</Lat>
+  <Lon>133</Lon>
+  <Wind (mph)>85</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>17.6</Lat>
+  <Lon>131.7</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>17.9</Lat>
+  <Lon>130.3</Lon>
+  <Wind (mph)>135</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>18.4</Lat>
+  <Lon>129.3</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>18.9</Lat>
+  <Lon>128.2</Lon>
+  <Wind (mph)>180</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>19.3</Lat>
+  <Lon>126.7</Lon>
+  <Wind (mph)>180</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>19.6</Lat>
+  <Lon>125.5</Lon>
+  <Wind (mph)>185</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>20.2</Lat>
+  <Lon>124.2</Lon>
+  <Wind (mph)>185</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>20.5</Lat>
+  <Lon>122.7</Lon>
+  <Wind (mph)>185</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>20.8</Lat>
+  <Lon>121.8</Lon>
+  <Wind (mph)>190</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>21.6</Lat>
+  <Lon>120.7</Lon>
+  <Wind (mph)>180</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>22.5</Lat>
+  <Lon>119.6</Lon>
+  <Wind (mph)>180</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>23.5</Lat>
+  <Lon>118.8</Lon>
+  <Wind (mph)>145</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>24.5</Lat>
+  <Lon>118.3</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Depression Seventeen</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>35.7</Lat>
+  <Lon>152.6</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Seventeen</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>36.6</Lat>
+  <Lon>155.1</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Seventeen</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>37.4</Lat>
+  <Lon>157.5</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Seventeen</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>38.1</Lat>
+  <Lon>160.4</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Aug/31/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>22</Lat>
+  <Lon>125.9</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Aug/31/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>23.1</Lat>
+  <Lon>126.5</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/01/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>23.8</Lat>
+  <Lon>127.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/01/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>24.4</Lat>
+  <Lon>129.1</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/01/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>25</Lat>
+  <Lon>130.2</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/01/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>25.8</Lat>
+  <Lon>130.6</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/02/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>26.4</Lat>
+  <Lon>130.8</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/02/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>27.2</Lat>
+  <Lon>130.8</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/02/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>27.8</Lat>
+  <Lon>130.8</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/02/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>28.5</Lat>
+  <Lon>130.7</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/03/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>29.3</Lat>
+  <Lon>130.3</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/03/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>30</Lat>
+  <Lon>130.1</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/03/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>30.7</Lat>
+  <Lon>129.9</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/03/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>31.1</Lat>
+  <Lon>129.8</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/04/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>31.5</Lat>
+  <Lon>129.6</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/04/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>32</Lat>
+  <Lon>129.5</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/04/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>32.7</Lat>
+  <Lon>129.7</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/05/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>33.1</Lat>
+  <Lon>129.8</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Namtheun</Name>
+  <Date>Sep/05/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>34</Lat>
+  <Lon>130.4</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/08/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>13.9</Lat>
+  <Lon>142.2</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/09/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.1</Lat>
+  <Lon>142.6</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/09/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14</Lat>
+  <Lon>142.5</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/09/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.5</Lat>
+  <Lon>142</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/09/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14.6</Lat>
+  <Lon>141.3</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/10/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>15.2</Lat>
+  <Lon>139.9</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/10/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>15.5</Lat>
+  <Lon>138.5</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/10/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>15.9</Lat>
+  <Lon>137.5</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/10/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>15.8</Lat>
+  <Lon>136.4</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>16.3</Lat>
+  <Lon>135.7</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>16.8</Lat>
+  <Lon>134.5</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>17.3</Lat>
+  <Lon>133</Lon>
+  <Wind (mph)>85</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>17.6</Lat>
+  <Lon>131.7</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>17.9</Lat>
+  <Lon>130.3</Lon>
+  <Wind (mph)>135</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>18.4</Lat>
+  <Lon>129.3</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>18.9</Lat>
+  <Lon>128.2</Lon>
+  <Wind (mph)>180</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>19.3</Lat>
+  <Lon>126.7</Lon>
+  <Wind (mph)>180</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>19.6</Lat>
+  <Lon>125.5</Lon>
+  <Wind (mph)>185</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>20.2</Lat>
+  <Lon>124.2</Lon>
+  <Wind (mph)>185</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>20.5</Lat>
+  <Lon>122.7</Lon>
+  <Wind (mph)>185</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>20.8</Lat>
+  <Lon>121.8</Lon>
+  <Wind (mph)>190</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>21.6</Lat>
+  <Lon>120.7</Lon>
+  <Wind (mph)>180</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>22.5</Lat>
+  <Lon>119.6</Lon>
+  <Wind (mph)>180</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>23.5</Lat>
+  <Lon>118.8</Lon>
+  <Wind (mph)>145</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Meranti</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>24.5</Lat>
+  <Lon>118.3</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Depression Seventeen</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>35.7</Lat>
+  <Lon>152.6</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Seventeen</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>36.6</Lat>
+  <Lon>155.1</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Seventeen</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>37.4</Lat>
+  <Lon>157.5</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Seventeen</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>38.1</Lat>
+  <Lon>160.4</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/11/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>12.8</Lat>
+  <Lon>144.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.3</Lat>
+  <Lon>143.2</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>13.1</Lat>
+  <Lon>141.7</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>13.7</Lat>
+  <Lon>140.5</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>139</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>14.3</Lat>
+  <Lon>137.8</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14.5</Lat>
+  <Lon>136.8</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.7</Lat>
+  <Lon>135.5</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/13/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14.9</Lat>
+  <Lon>134.5</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>15.5</Lat>
+  <Lon>133</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>15.8</Lat>
+  <Lon>132.1</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>16.3</Lat>
+  <Lon>131</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/14/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>16.6</Lat>
+  <Lon>129.9</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/15/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>17.2</Lat>
+  <Lon>128.5</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/15/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>17.6</Lat>
+  <Lon>127.8</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/15/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>18.4</Lat>
+  <Lon>126.8</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/15/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>19.3</Lat>
+  <Lon>125.7</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/16/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>20.1</Lat>
+  <Lon>124.7</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/16/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>21.1</Lat>
+  <Lon>123.9</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/16/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>22.1</Lat>
+  <Lon>123.3</Lon>
+  <Wind (mph)>125</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/16/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>22.9</Lat>
+  <Lon>123.1</Lon>
+  <Wind (mph)>135</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/17/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>24.1</Lat>
+  <Lon>123</Lon>
+  <Wind (mph)>125</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/17/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>25.3</Lat>
+  <Lon>122.8</Lon>
+  <Wind (mph)>125</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/17/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>26</Lat>
+  <Lon>122.7</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/17/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>26.2</Lat>
+  <Lon>122.7</Lon>
+  <Wind (mph)>100</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/18/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>26.8</Lat>
+  <Lon>123.5</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/18/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>28</Lat>
+  <Lon>125.2</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/18/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>28.7</Lat>
+  <Lon>126.1</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/19/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>29.3</Lat>
+  <Lon>127.2</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/19/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>30.2</Lat>
+  <Lon>128.3</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/19/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>30.9</Lat>
+  <Lon>129.7</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/19/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>31.7</Lat>
+  <Lon>131.5</Lon>
+  <Wind (mph)>85</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/20/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>32.9</Lat>
+  <Lon>133.6</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/20/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>34.3</Lat>
+  <Lon>136.1</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/20/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>35.4</Lat>
+  <Lon>138.7</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Malakas</Name>
+  <Date>Sep/20/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>36.8</Lat>
+  <Lon>142.4</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Rai</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.4</Lat>
+  <Lon>112.3</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Rai</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14.3</Lat>
+  <Lon>110.9</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Rai</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>15.1</Lat>
+  <Lon>109.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Rai</Name>
+  <Date>Sep/12/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>15.3</Lat>
+  <Lon>108.8</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/28/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>148.2</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/28/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14.3</Lat>
+  <Lon>147</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/28/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>145.1</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/28/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14.4</Lat>
+  <Lon>144</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/29/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>14.5</Lat>
+  <Lon>142.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/29/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>141.3</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/29/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.1</Lat>
+  <Lon>140</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/29/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>13.7</Lat>
+  <Lon>139.1</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/30/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.5</Lat>
+  <Lon>138.1</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/30/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>138</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Megi</Name>
+  <Date>Sep/30/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.9</Lat>
+  <Lon>136.8</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/28/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>148.2</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/28/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14.3</Lat>
+  <Lon>147</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/28/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>145.1</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/28/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14.4</Lat>
+  <Lon>144</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/29/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>14.5</Lat>
+  <Lon>142.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/29/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>141.3</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/29/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.1</Lat>
+  <Lon>140</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/29/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>13.7</Lat>
+  <Lon>139.1</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/30/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.5</Lat>
+  <Lon>138.1</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/30/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>138</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Chaba</Name>
+  <Date>Sep/30/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.9</Lat>
+  <Lon>136.8</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/05/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>19.5</Lat>
+  <Lon>123.5</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/05/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>19.6</Lat>
+  <Lon>121.2</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/06/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>20.5</Lat>
+  <Lon>120</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/06/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>20.8</Lat>
+  <Lon>118.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/06/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>20.5</Lat>
+  <Lon>117.5</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/06/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>20.2</Lat>
+  <Lon>116.9</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/07/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>20.6</Lat>
+  <Lon>116.3</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/07/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>20.8</Lat>
+  <Lon>116.3</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/07/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>21.3</Lat>
+  <Lon>116.2</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/07/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>21.3</Lat>
+  <Lon>115.9</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/08/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>21.2</Lat>
+  <Lon>116.4</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/08/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>21.3</Lat>
+  <Lon>116.5</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/08/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>21.6</Lat>
+  <Lon>117.2</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/08/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>21.8</Lat>
+  <Lon>117.4</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/09/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>21.9</Lat>
+  <Lon>117.3</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/09/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>21.8</Lat>
+  <Lon>117.7</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/09/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>21.8</Lat>
+  <Lon>117.9</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/09/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>21.9</Lat>
+  <Lon>117.6</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/10/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>21.7</Lat>
+  <Lon>117.7</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/13/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>16.5</Lat>
+  <Lon>110.5</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/13/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>16.6</Lat>
+  <Lon>109</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Aere</Name>
+  <Date>Oct/13/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>16.6</Lat>
+  <Lon>108.3</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/08/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>19.5</Lat>
+  <Lon>155.8</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/08/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>20</Lat>
+  <Lon>154.3</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/08/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>20.7</Lat>
+  <Lon>152.6</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/09/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>21.1</Lat>
+  <Lon>151.1</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/09/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>22.2</Lat>
+  <Lon>149.7</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/09/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>23</Lat>
+  <Lon>148.4</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/09/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>24</Lat>
+  <Lon>147.3</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/10/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>24.7</Lat>
+  <Lon>146.4</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/10/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>25.5</Lat>
+  <Lon>145.9</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/10/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>26.4</Lat>
+  <Lon>145.9</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/10/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>27.2</Lat>
+  <Lon>145.9</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/11/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>27.8</Lat>
+  <Lon>146</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/11/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>28.6</Lat>
+  <Lon>146.7</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/11/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>29.3</Lat>
+  <Lon>147.6</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/11/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>30.3</Lat>
+  <Lon>149</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/12/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>31.2</Lat>
+  <Lon>151</Lon>
+  <Wind (mph)>140</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Songda</Name>
+  <Date>Oct/12/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>32.5</Lat>
+  <Lon>153.8</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/12/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>13.1</Lat>
+  <Lon>129.9</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/12/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>12.5</Lat>
+  <Lon>130</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/13/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>12.7</Lat>
+  <Lon>129.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/13/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>13.3</Lat>
+  <Lon>129.4</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/13/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>13.8</Lat>
+  <Lon>128.8</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/13/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14</Lat>
+  <Lon>128.3</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/14/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.8</Lat>
+  <Lon>127.3</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/14/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>13.9</Lat>
+  <Lon>126.6</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/14/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>13.9</Lat>
+  <Lon>126</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/14/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>125.2</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/15/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>14.3</Lat>
+  <Lon>124.4</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/15/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>14.7</Lat>
+  <Lon>123.9</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/15/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>15.1</Lat>
+  <Lon>122.9</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/15/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>15.8</Lat>
+  <Lon>121.8</Lon>
+  <Wind (mph)>135</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/16/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>16.3</Lat>
+  <Lon>119.9</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/16/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>16.5</Lat>
+  <Lon>118.3</Lon>
+  <Wind (mph)>85</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/16/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>16.7</Lat>
+  <Lon>117.2</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/16/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>17</Lat>
+  <Lon>115.7</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/17/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>17.2</Lat>
+  <Lon>114.2</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/17/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>17.5</Lat>
+  <Lon>113</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/17/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>18</Lat>
+  <Lon>112.4</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/17/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>18.4</Lat>
+  <Lon>111.5</Lon>
+  <Wind (mph)>85</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/18/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>18.8</Lat>
+  <Lon>110.7</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/18/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>19.2</Lat>
+  <Lon>109.9</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/18/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>19.8</Lat>
+  <Lon>109</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/18/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>20.5</Lat>
+  <Lon>108.3</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/19/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>21</Lat>
+  <Lon>107.8</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Sarika</Name>
+  <Date>Oct/19/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>21.7</Lat>
+  <Lon>108.1</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/14/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>7.9</Lat>
+  <Lon>144.4</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/15/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>8.3</Lat>
+  <Lon>143.8</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/15/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>9</Lat>
+  <Lon>142.3</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/15/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>9.5</Lat>
+  <Lon>141.3</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/15/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>9.9</Lat>
+  <Lon>140.3</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/16/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>10.1</Lat>
+  <Lon>139.5</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/16/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>10.5</Lat>
+  <Lon>138.9</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/16/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>11</Lat>
+  <Lon>138.8</Lon>
+  <Wind (mph)>85</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/16/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>12.2</Lat>
+  <Lon>137.8</Lon>
+  <Wind (mph)>110</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/17/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>12.9</Lat>
+  <Lon>136.5</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/17/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>13.3</Lat>
+  <Lon>135.5</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/17/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>13.8</Lat>
+  <Lon>134.5</Lon>
+  <Wind (mph)>135</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/17/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14.4</Lat>
+  <Lon>133.3</Lon>
+  <Wind (mph)>140</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/18/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>14.9</Lat>
+  <Lon>132.1</Lon>
+  <Wind (mph)>140</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/18/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>15.4</Lat>
+  <Lon>130.6</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/18/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>15.7</Lat>
+  <Lon>129.1</Lon>
+  <Wind (mph)>160</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/18/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>16</Lat>
+  <Lon>127.5</Lon>
+  <Wind (mph)>165</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/19/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>16</Lat>
+  <Lon>126</Lon>
+  <Wind (mph)>160</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/19/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>16.7</Lat>
+  <Lon>124.7</Lon>
+  <Wind (mph)>155</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/19/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>17.3</Lat>
+  <Lon>123.2</Lon>
+  <Wind (mph)>140</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/19/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>17.9</Lat>
+  <Lon>121.5</Lon>
+  <Wind (mph)>115</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/20/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>18.4</Lat>
+  <Lon>120.3</Lon>
+  <Wind (mph)>110</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/20/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>19</Lat>
+  <Lon>118.8</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/20/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>19.8</Lat>
+  <Lon>117.6</Lon>
+  <Wind (mph)>100</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/20/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>20.7</Lat>
+  <Lon>116.7</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/21/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>22</Lat>
+  <Lon>115.8</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Super Typhoon Haima</Name>
+  <Date>Oct/21/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>23.2</Lat>
+  <Lon>115.2</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/02/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>12.9</Lat>
+  <Lon>136.9</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/03/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>12.9</Lat>
+  <Lon>136.5</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/03/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>13.5</Lat>
+  <Lon>137.4</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/03/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.2</Lat>
+  <Lon>137.4</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/03/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>14.8</Lat>
+  <Lon>137.3</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/04/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>14.8</Lat>
+  <Lon>138.8</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/04/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>15.4</Lat>
+  <Lon>139.2</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/04/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>16</Lat>
+  <Lon>139.5</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/04/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>16.7</Lat>
+  <Lon>139.8</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/05/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>17.4</Lat>
+  <Lon>140</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/05/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>17.5</Lat>
+  <Lon>140.4</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/05/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>18.1</Lat>
+  <Lon>140.9</Lon>
+  <Wind (mph)>100</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/05/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>18.8</Lat>
+  <Lon>141.8</Lon>
+  <Wind (mph)>100</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/06/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>19.5</Lat>
+  <Lon>142.7</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/06/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>20.8</Lat>
+  <Lon>143.7</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/06/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>22.1</Lat>
+  <Lon>144.6</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/06/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>24.2</Lat>
+  <Lon>145.7</Lon>
+  <Wind (mph)>90</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/07/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>26.9</Lat>
+  <Lon>146.9</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/07/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>29.2</Lat>
+  <Lon>148.1</Lon>
+  <Wind (mph)>75</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Typhoon Meari</Name>
+  <Date>Nov/09/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>16.4</Lat>
+  <Lon>157.6</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Ma-on</Name>
+  <Date>Nov/10/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>17.1</Lat>
+  <Lon>156.6</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Ma-on</Name>
+  <Date>Nov/10/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>17.4</Lat>
+  <Lon>155.8</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Ma-on</Name>
+  <Date>Nov/10/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>17.5</Lat>
+  <Lon>154.4</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Ma-on</Name>
+  <Date>Nov/10/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>18.4</Lat>
+  <Lon>152.9</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Ma-on</Name>
+  <Date>Nov/11/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>18.8</Lat>
+  <Lon>151.6</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Ma-on</Name>
+  <Date>Nov/11/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>19.2</Lat>
+  <Lon>150.9</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Ma-on</Name>
+  <Date>Nov/11/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>20.1</Lat>
+  <Lon>148.4</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Ma-on</Name>
+  <Date>Nov/11/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>20.8</Lat>
+  <Lon>146.8</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Ma-on</Name>
+  <Date>Nov/12/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>21</Lat>
+  <Lon>145.6</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Ma-on</Name>
+  <Date>Nov/12/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>21.7</Lat>
+  <Lon>144.7</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Twentyeight</Name>
+  <Date>Nov/11/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>9.8</Lat>
+  <Lon>163.7</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Twentyeight</Name>
+  <Date>Nov/11/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>9.5</Lat>
+  <Lon>162.2</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Twentyeight</Name>
+  <Date>Nov/11/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>9.1</Lat>
+  <Lon>160.5</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Twentyeight</Name>
+  <Date>Nov/11/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>9</Lat>
+  <Lon>159.1</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Twentyeight</Name>
+  <Date>Nov/12/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>9</Lat>
+  <Lon>157.4</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Depression Twentyeight</Name>
+  <Date>Nov/12/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>9.2</Lat>
+  <Lon>156.1</Lon>
+  <Wind (mph)>25</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/24/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>10.3</Lat>
+  <Lon>125.8</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/24/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>11.2</Lat>
+  <Lon>123.6</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/25/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>11.5</Lat>
+  <Lon>122.5</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/25/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>11.4</Lat>
+  <Lon>121.5</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/25/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>11.8</Lat>
+  <Lon>120.8</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/25/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>12.6</Lat>
+  <Lon>119.7</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/26/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.3</Lat>
+  <Lon>118.6</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/26/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>13.9</Lat>
+  <Lon>117.7</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/26/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>14.7</Lat>
+  <Lon>117.5</Lon>
+  <Wind (mph)>60</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/26/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>15.4</Lat>
+  <Lon>117</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/27/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>15.9</Lat>
+  <Lon>117.4</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/27/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>16.2</Lat>
+  <Lon>118</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/27/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>16.6</Lat>
+  <Lon>118.2</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/27/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>17.3</Lat>
+  <Lon>117.9</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/28/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>17.5</Lat>
+  <Lon>118.8</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Tokage</Name>
+  <Date>Nov/28/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>16.5</Lat>
+  <Lon>117.3</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/21/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>6.6</Lat>
+  <Lon>141.7</Lon>
+  <Wind (mph)>30</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/21/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>6.9</Lat>
+  <Lon>141</Lon>
+  <Wind (mph)>35</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Depression</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/21/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>7.9</Lat>
+  <Lon>140.3</Lon>
+  <Wind (mph)>40</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/22/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>8.7</Lat>
+  <Lon>139.1</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/22/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>9.4</Lat>
+  <Lon>137.9</Lon>
+  <Wind (mph)>45</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/22/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>10.1</Lat>
+  <Lon>136.6</Lon>
+  <Wind (mph)>50</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/22/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>10.9</Lat>
+  <Lon>135</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/23/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>11.8</Lat>
+  <Lon>133.3</Lon>
+  <Wind (mph)>65</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/23/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>12.2</Lat>
+  <Lon>132.2</Lon>
+  <Wind (mph)>70</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Tropical Storm</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/23/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>12.7</Lat>
+  <Lon>131</Lon>
+  <Wind (mph)>80</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/23/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>13</Lat>
+  <Lon>129.9</Lon>
+  <Wind (mph)>105</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/24/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>13.1</Lat>
+  <Lon>129</Lon>
+  <Wind (mph)>125</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/24/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>13.3</Lat>
+  <Lon>128.2</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/24/2016</Date>
+  <Time>12 GMT</Time>
+  <Lat>13.4</Lat>
+  <Lon>127.5</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Dec/24/2016</Date>
+  <Time>18 GMT</Time>
+  <Lat>13.6</Lat>
+  <Lon>126.7</Lon>
+  <Wind (mph)>150</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Super Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Oct/12/2016</Date>
+  <Time>00 GMT</Time>
+  <Lat>31.2</Lat>
+  <Lon>151</Lon>
+  <Wind (mph)>140</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+  <Name>Tropical Storm Nock-ten</Name>
+  <Date>Oct/12/2016</Date>
+  <Time>06 GMT</Time>
+  <Lat>32.5</Lat>
+  <Lon>153.8</Lon>
+  <Wind (mph)>120</Wind (mph)>
+  <Pressure>-999</Pressure>
+  <Storm Type>Typhoon</Storm Type>
+</data1.csv>

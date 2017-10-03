@@ -1,6 +1,7 @@
 package util;
 
 import model.CSVObject;
+import model.XMLBean;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -19,7 +20,6 @@ public class CSVUtil {
         if (!file.exists()) {
             throw new RuntimeException("No such file.");
         }
-        StringBuilder sb = new StringBuilder();
         CSVObject csvObject = new CSVObject();
         try {
             BufferedReader reader = new BufferedReader(new FileReader(file));
@@ -36,6 +36,33 @@ public class CSVUtil {
             e.printStackTrace();
         }
         return csvObject;
+    }
+
+    public static XMLBean parseToXMLBeanFromCSVFile(File file) {
+        if (!file.exists()) {
+            throw new RuntimeException("No such file.");
+        }
+        XMLBean bean = new XMLBean(file.getPath());
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader(file));
+            String s;
+            s = reader.readLine();
+            String[] headerArr = ArrayUtil.removeBlankString(s.split(","));
+            while ((s = reader.readLine()) != null) {
+                String[] contentArr = ArrayUtil.removeBlankString(s.split(","));
+                addElementToXMLBean(bean, headerArr, contentArr);
+            }
+            reader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return bean;
+    }
+
+    public static void addElementToXMLBean(XMLBean bean, String[] headerArr, String[] contentArr) {
+        for (int i = 0, len = contentArr.length; i < len; i++) {
+            bean.addElement(new XMLBean(headerArr[i], contentArr[i]));
+        }
     }
 
 }

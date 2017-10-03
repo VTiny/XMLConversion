@@ -1,13 +1,16 @@
 package util;
 
 import model.CSVObject;
+import model.XMLBean;
 import org.dom4j.Document;
 import org.dom4j.DocumentHelper;
 import org.dom4j.Element;
 import org.dom4j.io.OutputFormat;
 import org.dom4j.io.XMLWriter;
 
-import java.io.*;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.util.List;
 
 /**
@@ -17,17 +20,42 @@ import java.util.List;
  */
 public class XMLUtil {
 
-    public static Document parse2XML(Object object) {
-//        Class clazz = object.getClass();
-//        clazz.get
-        return null;
+    public static void writeToFile(CSVObject csvObject, String path) {
+        if (csvObject == null || path == null || path.length() == 0) {
+            return;
+        }
+        writeToFile(parseToXML(csvObject), new File(path));
     }
 
-    public static void write2File(CSVObject csvObject, String path) {
-        writeToFile(parse2XML(csvObject), path);
+    public static void writeToFile(XMLBean bean, String path) {
+        if (bean == null || path == null || path.length() == 0) {
+            return;
+        }
+        writeToFile(parseToXML(bean), new File(path));
     }
 
-    private static Document parse2XML(CSVObject csvObject) {
+    private static Document parseToXML(XMLBean rootBean) {
+        Document document = DocumentHelper.createDocument();
+        Element rootElement = document.addElement(rootBean.getName());
+        translateToElement(rootElement, rootBean);
+        return document;
+    }
+
+    private static void translateToElement(Element element, XMLBean bean) {
+        if (bean.getElementList().size() == 0) {
+            element.setText(bean.getContent());
+            return;
+        }
+        for (XMLBean.XMLAttribute attr : bean.getAttributeList()) {
+            element.addAttribute(attr.getName(), attr.getContent());
+        }
+        for (XMLBean childBean : bean.getElementList()) {
+            Element childElement = element.addElement(childBean.getName());
+            translateToElement(childElement, childBean);
+        }
+    }
+
+    private static Document parseToXML(CSVObject csvObject) {
         Document document = DocumentHelper.createDocument();
         Element rootElement = document.addElement("root");
 
@@ -45,11 +73,8 @@ public class XMLUtil {
         return document;
     }
 
-    private static void writeToFile(Document doc, String path) {
-        if (path == null || path.length() == 0) {
-            return;
-        }
-        writeToFile(doc, new File(path));
+    public static void writeToFile(CSVObject csvObject, File file) {
+        writeToFile(parseToXML(csvObject), file);
     }
 
     private static void writeToFile(Document doc, File file) {
@@ -57,19 +82,11 @@ public class XMLUtil {
             return;
         }
         OutputFormat format = OutputFormat.createPrettyPrint();
-        //设置输出编码
         format.setEncoding("UTF-8");
-        //创建需要写入的File对象
-        //生成XMLWriter对象，构造函数中的参数为需要输出的文件流和格式
-        XMLWriter writer = null;
+        XMLWriter writer;
         try {
             writer = new XMLWriter(new FileOutputStream(file), format);
-            //开始写入，write方法中包含上面创建的Document对象
             writer.write(doc);
-        } catch (UnsupportedEncodingException e) {
-            e.printStackTrace();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
