@@ -42,7 +42,7 @@ public class CSVUtil {
         if (!file.exists()) {
             throw new RuntimeException("No such file.");
         }
-        XMLBean bean = new XMLBean(file.getPath());
+        XMLBean bean = new XMLBean(StringUtil.removeSuffix(file.getPath()));
         try {
             BufferedReader reader = new BufferedReader(new FileReader(file));
             String s;
@@ -50,7 +50,7 @@ public class CSVUtil {
             String[] headerArr = ArrayUtil.removeBlankString(s.split(","));
             while ((s = reader.readLine()) != null) {
                 String[] contentArr = ArrayUtil.removeBlankString(s.split(","));
-                bean.addElement(parseDataToXMLBean(headerArr, contentArr, "Data"));
+                bean.addElement(parseDataToXMLBean(headerArr, contentArr, "Bean"));
             }
             reader.close();
         } catch (IOException e) {

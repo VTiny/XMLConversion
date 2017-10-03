@@ -19,17 +19,33 @@ public class StringUtil {
     }
 
     public static String removeBracket(String s) {
-        int startIndex = 0;
+        int index = 0;
         boolean hasBracket = false;
         for (int i = 0, len = s.length(); i < len; i++) {
             if (s.charAt(i) == '(') {
-                startIndex = i;
+                index = i;
                 hasBracket = true;
                 break;
             }
         }
         if (hasBracket) {
-            s = s.substring(0, startIndex - 1);
+            s = s.substring(0, index);
+        }
+        return s;
+    }
+
+    public static String removeSuffix(String s) {
+        int index = 0;
+        boolean hasSuffix = false;
+        for (int i = 0, len = s.length(); i < len; i++) {
+            if (s.charAt(i) == '.') {
+                index = i;
+                hasSuffix = true;
+                break;
+            }
+        }
+        if (hasSuffix) {
+            s = s.substring(0, index);
         }
         return s;
     }
