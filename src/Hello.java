@@ -15,7 +15,7 @@ public class Hello {
 //        CSVObject csvObject = CSVUtil.parseFromFile(new File("data1.csv"));
 //        XMLUtil.writeToFile(csvObject, "result1.xml");
         XMLBean xmlObject = CSVUtil.parseToXMLBeanFromCSVFile(new File("data1.csv"));
-        XMLUtil.writeToFile(xmlObject,"res.xml");
+        XMLUtil.writeToFile(xmlObject,"out/res.xml");
 
     }
 }
