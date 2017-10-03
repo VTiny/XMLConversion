@@ -50,7 +50,7 @@ public class CSVUtil {
             String[] headerArr = ArrayUtil.removeBlankString(s.split(","));
             while ((s = reader.readLine()) != null) {
                 String[] contentArr = ArrayUtil.removeBlankString(s.split(","));
-                addElementToXMLBean(bean, headerArr, contentArr);
+                bean.addElement(parseDataToXMLBean(headerArr, contentArr, "Data"));
             }
             reader.close();
         } catch (IOException e) {
@@ -63,6 +63,14 @@ public class CSVUtil {
         for (int i = 0, len = contentArr.length; i < len; i++) {
             bean.addElement(new XMLBean(headerArr[i], contentArr[i]));
         }
+    }
+
+    private static XMLBean parseDataToXMLBean(String[] headerArr, String[] contentArr, String name) {
+        XMLBean xmlBean = new XMLBean(name);
+        for (int i = 0, len = contentArr.length; i < len; i++) {
+            xmlBean.addElement(new XMLBean(headerArr[i], contentArr[i]));
+        }
+        return xmlBean;
     }
 
 }
