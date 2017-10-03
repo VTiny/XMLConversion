@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Author: liuxiao
  * Created: 2017/10/3 09:50
- * Description:
+ * Description: XMLBean，应当将.csv文件转化此数据结构，通过此结构生成xml文件
  */
 public class XMLBean {
 

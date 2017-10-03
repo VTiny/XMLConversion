@@ -6,8 +6,9 @@ import java.util.List;
 /**
  * Author: liuxiao
  * Created: 2017/10/2 18:18
- * Description:
+ * Description: .csv文件对应的对象，废弃，使用XMLBean替代
  */
+@Deprecated
 public class CSVObject {
 
     private List<String> headerList;

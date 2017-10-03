@@ -8,8 +8,14 @@ import java.util.List;
  * Created: 2017/10/3 10:45
  * Description:
  */
-public class ArrayUtil<T> {
+class ArrayUtil<T> {
 
+    /**
+     * 删除字符串数组中的空白字符串
+     *
+     * @param stringArr
+     * @return
+     */
     public static String[] removeBlankString(String[] stringArr) {
         List<String> stringList = Arrays.asList(stringArr);
         int size = stringArr.length;

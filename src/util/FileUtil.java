@@ -3,12 +3,11 @@ package util;
 import java.io.*;
 
 /**
- * @Description
  * @Author liuxiao
  * @Date 2017/4/19
+ * @Description 文件读写操作工具类
  */
-public class FileUtil {
-
+class FileUtil {
 
     public static StringBuilder readFromFile(String path) {
         File file = new File(path);

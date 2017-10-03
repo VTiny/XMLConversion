@@ -16,22 +16,23 @@ import java.util.List;
 /**
  * Author: liuxiao
  * Created: 2017/10/2 16:52
- * Description:
+ * Description: xml工具类，主要用于将bean通过dom4j jar包提供的方法写入到文件中
  */
 public class XMLUtil {
-
-    public static void writeToFile(CSVObject csvObject, String path) {
-        if (csvObject == null || path == null || path.length() == 0) {
-            return;
-        }
-        writeToFile(parseToXML(csvObject), new File(path));
-    }
 
     public static void writeToFile(XMLBean bean, String path) {
         if (bean == null || path == null || path.length() == 0) {
             return;
         }
         writeToFile(parseToXML(bean), new File(path));
+    }
+
+    @Deprecated
+    public static void writeToFile(CSVObject csvObject, String path) {
+        if (csvObject == null || path == null || path.length() == 0) {
+            return;
+        }
+        writeToFile(parseToXML(csvObject), new File(path));
     }
 
     private static Document parseToXML(XMLBean rootBean) {
