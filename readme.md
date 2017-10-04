@@ -6,7 +6,7 @@
 3. 运行后会生成.xml格式文件，保存在设定的输出文件
 
 #### todo
-1. xml文件格式element有问题，待处理
-2. 工具类方法待完善
-3. gitignore待添加
+1. xml文件格式element有问题，待处理 FINISH
+2. 工具类方法待完善 
+3. gitignore待添加 FINISH
 
